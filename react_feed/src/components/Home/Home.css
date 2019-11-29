@@ -1,0 +1,22 @@
+.logout{
+float:right;
+margin:10px 0px;
+}
+
+table {
+  border-collapse: collapse;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align:center;
+  border:none;
+  
+}
+th,td{
+padding-left:50px;
+}
+.button{
+	 margin-left:14px;
+}
